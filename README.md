@@ -1,19 +1,23 @@
-# Playwright Automation Engineer Skill
+# Playwright Automation with AI Agents & Skills
 
 ## What it does 
 
 ## Instalation
 
-### Option 1 - Projects only
-
-
-
-### Option 2 - Global (all projects)
-
-
-
-### Using git clone
-
-
-
 ## Usage
+
+## TODO:
+
+### Agents
+docs-agent
+flaky-test-hunter
+test-generator
+test-healer
+test-planner
+
+### Skills
+grill-me-qa
+e2e-testing
+regression-testing
+test-planner
+webapp-testing
