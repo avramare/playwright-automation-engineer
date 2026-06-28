@@ -1,0 +1,29 @@
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Logs
+*.log
+logs/
+
+# Node
+node_modules/
+
+# Playwright artifacts (commonly produced in downstream projects)
+playwright-report/
+test-results/
+blob-report/
+
+# General build outputs
+coverage/
+dist/
+build/
+.out/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
